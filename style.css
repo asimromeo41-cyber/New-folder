@@ -1,0 +1,30 @@
+h1{
+    color: blue;
+    text-align: center;
+}
+
+p
+{
+    text-align: center;
+}
+.one{
+    background-color: rgb(233, 10, 10);
+}
+.two{
+    background-color: rgb(219, 33, 33);
+}
+.three{
+    background-color: rgb(209, 110, 110);
+}
+.four{
+    background-color: rgb(238, 194, 194);
+}
+.five{
+    background-color: rgb(70, 15, 197);
+}
+.six{
+    background-color: rgb(128, 80, 206);
+}
+.seven{
+    background-color: rgb(129, 107, 226);
+}
